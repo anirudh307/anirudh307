@@ -10,7 +10,7 @@
   <code><a href="www.linkedin.com/in/anirudh7972/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
   <code><a href="https://www.leetcode.com/bugssolver" title="LeekCode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> LeetCode</a></code>
   <code><a href="https://auth.geeksforgeeks.org/user/https://www.w3profile.com/anirudh" title="GFG Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"> Geeks-for-geeks</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.w3profile.com/anirudh"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/its_anirudh_d01/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.w3profile.com/anirudh"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
